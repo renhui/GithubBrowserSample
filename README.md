@@ -1,4 +1,4 @@
-(Language:Kotlin : this)
+### (Language：Kotlin)
 
 Github Browser Sample with Android Architecture Components
 ===========================================================
